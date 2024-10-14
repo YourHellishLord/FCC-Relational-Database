@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DB_USERNAME="freecodecamp"
+DB_USERNAME="postgres"
 CSV_FILE="games.csv"
 
 if [[ $1 == "test" ]]
